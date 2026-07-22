@@ -1,0 +1,6 @@
+# Derived classification artifacts — regenerated from the corpus, kept local.
+# Contain raw email content (trips secret-scanning on false positives) and are
+# reproducible from corpus/index via the classification pass.
+corpus/classified.json
+corpus/classified-v2.json
+todos-cleaned.json
