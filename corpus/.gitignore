@@ -1,0 +1,6 @@
+# Local data — never push OAuth secrets, tokens, or the email store
+credentials.json
+token.json
+.sync-state.json
+store/
+index/
