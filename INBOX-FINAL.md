@@ -1,6 +1,6 @@
 # Organize Inbox — Final Summary
 
-**Status:** 940 emails processed → 3 P1 + 12 P2 + archived
+**Status:** 940 emails processed → 3 P1 + 86 P2 + archived
 
 ---
 
@@ -17,35 +17,39 @@
 
 ---
 
-## 🟡 P2: Research & Interests (Explore when bandwidth allows)
+## 🟡 P2: Research & Interests (86 items)
 
-### 🛋️ Furniture Research (3 items)
-- 📅 2026-05-19 | KALLAX Shelf unit - IKEA
-- 📅 2026-04-10 | Demi raised long planter – Veradek
-- 📅 2026-02-24 | Old Town Print Gallery
+### 👨‍🍳 Recipes (2)
+- Cooking classes, food prep, cooking techniques
 
-### 🤖 Claude/AI Resources (3 items)
-- 📅 2026-05-16 | Google's Guide to Optimizing for Generative AI Features
-- 📅 2026-03-18 | Fwd: The-Complete-Guide-to-Building-Skill-for-Claude
-- 📅 2026-02-28 | The-Complete-Guide-to-Building-Skill-for-Claude
+### 🤖 Claude/AI Resources (8)
+- Skill building, prompt optimization, AI guides
 
-### 🍽️ Restaurants to Visit (1 item)
-- 📅 2026-05-16 | Super Chicken
+### 🛋️ Furniture & Design (2)
+- Shelf units, planters, gallery/art references
 
-### 👨‍🍳 Cooking Classes / Recipes (2 items)
-- 📅 2026-03-18 | Fwd: Book a Class – Skillette
-- 📅 2026-02-24 | Book a Class – Skillette
+### 🍽️ Restaurants to Visit (2)
+- Places worth trying
+
+### 🎪 Events & Venues (6)
+- Museums, galleries, concerts, exhibitions
+
+### 🛠️ Projects & Tools (1)
+- App ideas, admin references
+
+### 📚 General Articles (65)
+- Diverse topics: psychology, tech, culture, wellness, productivity, random interests
+- Research material, interesting reads, things to explore
 
 ---
 
-## 📦 Archived (14+ items)
+## 📦 Archived (~12 items)
 
 Cleared out:
 - Completed projects (Jaunt work, Brent landing pages)
-- One-off events (Washington Monument, birthday RSVPs, bus tracking)
-- Recommended content not pursued (shows you didn't watch)
-- Social media links & ephemeral items
-- Old research (6+ months, superseded)
+- One-off events (Washington Monument, birthday RSVPs, bus tracking, airline notifications)
+- Old social recommendations (TV shows you didn't pursue)
+- Truly stale (6+ months, superseded)
 
 ---
 
@@ -53,10 +57,16 @@ Cleared out:
 
 | Priority | Count | Type |
 |----------|-------|------|
-| P1 | 3 | Time-sensitive decisions needed |
-| P2 | 12 | Research, interests, recipes to try |
-| Archived | 14+ | Done, abandoned, or stale |
-| **Total** | **29** | Actionable from 940 |
+| **P1** | **3** | Time-sensitive decisions needed now |
+| **P2** | **86** | Research, interests, recipes, articles—explore when bandwidth allows |
+| **Archived** | **~12** | Done, abandoned, or truly stale |
+| **Total** | **101** | Actionable from 940 |
 
-**Frame:** Not "todos to finish" but "things by urgency." P1 needs decision/action now. P2 is valuable material to explore when you have bandwidth — a research collection, not an obligation.
+**Frame:** Not "todos to finish" but "things organized by urgency + value."
+
+- **P1**: Demands action/decision now (email, DMV, insurance)
+- **P2**: Valuable material with no deadline—recipes to try, resources to explore, articles to read, places to visit. A research collection and personal library, not an obligation.
+- **Archived**: Cleared the noise.
+
+This respects that value ≠ urgency. You have a robust collection of interests in P2; you'll dip into it when the mood strikes or when you need it. No grades.
 
