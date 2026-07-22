@@ -17,9 +17,9 @@ const CRED_PATH = join(HERE, 'credentials.json');
 const TOKEN_PATH = join(HERE, 'token.json');
 const STORE = join(HERE, 'store');
 const STATE_PATH = join(HERE, '.sync-state.json');
-// Pull all emails with the !organize Gmail label, including Trash and Spam
+// Pull all emails with the !organize Gmail label from the last 3 years, including Trash and Spam
 // (in:anywhere ensures deleted/spam-filtered messages are not silently absent)
-const CORPUS_QUERY = 'label:!organize in:anywhere';
+const CORPUS_QUERY = 'label:!organize after:2023/7/22 in:anywhere';
 
 for (const p of [CRED_PATH, TOKEN_PATH]) {
   if (!existsSync(p)) { console.error(`Missing ${p}. Run setup (SETUP.md) and node corpus/auth.mjs first.`); process.exit(1); }
